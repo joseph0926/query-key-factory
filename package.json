@@ -1,6 +1,6 @@
 {
   "name": "@joseph0926/query-key-factory",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "dist/index.cjs",
   "module": "dist/index.mjs",
